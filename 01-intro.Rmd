@@ -16,7 +16,11 @@ Alguns resultados importantes já foram alcançados pela instituição em relaç
 
 Algumas características do curso de Ciência de Dados Aplicada merecem ser destacadas, pois a proposta tem como objetivo formar um profissional capaz de integrar engenharia, dados, automação e inteligência artificial em soluções reais de alto impacto, articulando competências técnicas, analíticas e empreendedoras. 
 
-Uma das principais inovações do curso será o incentivo à adoção sistemática de projetos integradores que utilizam dados e problemas reais. Esses projetos permitem que os estudantes construam pipelines de dados reprodutíveis, executam experimentos de machine learning com rastreabilidade, integrem soluções com sistemas OT/IT, desenvolvam interfaces operacionais e apresentem resultados técnicos e de negócio com métricas claras. Esse enfoque aproxima o aluno do mercado e consolida uma formação centrada em evidências e impacto mensurável.
+Uma das principais inovações do curso será o incentivo à adoção sistemática de projetos integradores que utilizam dados e problemas reais. Esses projetos permitem que os estudantes construam pipelines de dados reprodutíveis, executem experimentos de machine learning com rastreabilidade, integrem soluções com sistemas OT/IT, desenvolvam interfaces operacionais e apresentem resultados técnicos e de negócio com métricas claras. 
+
+Além de seu caráter aplicado, tais projetos têm natureza extensionista, articulando-se diretamente com demandas de organizações, instituições públicas, empresas locais e desafios regionais. Dessa forma, o curso reforça seu compromisso com o impacto regional, contribuindo para o desenvolvimento de soluções reais e socialmente relevantes. Os projetos integradores também se conectam às trilhas temáticas — Saúde, Esporte e Gestão — permitindo que os estudantes apliquem conhecimentos técnicos em contextos concretos desses setores, favorecendo uma aprendizagem orientada por problemas e desafios reais.
+
+As trilhas, por sua vez, constituem outro diferencial importante do curso. Elas ampliam a autonomia do estudante, permitindo que personalize sua trajetória acadêmica e se especialize em áreas estratégicas de aplicação da ciência de dados. Ao alinhar conteúdos técnicos a setores específicos, as trilhas fortalecem a interdisciplinaridade, aproximam o aluno de temas contemporâneos e ampliam sua capacidade de atuação em diferentes mercados. Trata-se de um componente estrutural que diferencia o curso pela combinação entre rigor técnico, contextualização prática e relevância social.
 
 # HISTÓRICO DE CRIAÇÃO
 
@@ -71,7 +75,7 @@ knitr::kable(ch)
 ```
 
 
-# JUSTIFICATIVA O CURSO
+# JUSTIFICATIVA DO CURSO
 
 O curso de Ciências de Dados Aplicados surge como uma resposta às necessidades crescentes do mercado e da sociedade. A seguir, apresenta-se algumas justificativas que sustentam essa demanda:
 
@@ -920,7 +924,7 @@ Adicionalmente, ao escolher uma trilha, o estudante desenvolve a competência de
 
 As trilhas também fortalecem a interdisciplinaridade, pois conectam conteúdos de estatística, computação e engenharia de dados a saberes específicos de áreas como saúde, biomecânica, mercados, análises de negócio e gestão pública. Dessa forma, o aluno desenvolve uma visão sistêmica e profissionalmente orientada.
 
-No 7º semestre, o estudante deve cursar as disciplinas optativas de trilha previstas para completar seu percurso formativo, conforme a matriz curricular definida. A lista completa das disciplinas optativas de cada trilha encontra-se apresentada a seguir, conforme planilha oficial da grade curricular.
+No sétimo semestre, o estudante deve cursar as disciplinas optativas de trilha previstas para completar seu percurso formativo, conforme a matriz curricular definida. A lista completa das disciplinas optativas de cada trilha encontra-se apresentada a seguir, conforme planilha oficial da grade curricular.
 
 O percurso formativo das disciplinas optativas não se limita exclusivamente às trilhas temáticas. Embora o estudante tenha a possibilidade de aprofundar-se em Saúde, Esporte ou Gestão, o currículo prevê também o acesso a um conjunto ampliado de componentes optativos que abordam temas contemporâneos da área de Ciência de Dados, além de disciplinas ofertadas pelos cursos de Engenharia de Produção e Administração. Essa abertura curricular fortalece a interdisciplinaridade e permite que o discente explore diferentes perspectivas teóricas e aplicadas, ampliando sua formação para além do eixo técnico e temático. 
 
@@ -979,10 +983,57 @@ A seguir são descritas o ementário das disciplinas do curso de Ciência de Dad
   - **SIGLA**: CDAXX.
   - **CH (hora.aula)**: 48h.
   - Fundamentos de administração e organizações; estratégia, cadeia de valor e processos; e setores comuns em uma organização (marketing e vendas; operações e supply chain; finanças; recursos humanos. TI e data; jurídico e compliance); transformação digital e modelos de negócio; tendências e futuro.
+
+### Segundo Semestre
+
+- **DISCIPLINA**: .
+  - **SIGLA**: .
+  - **CH (hora.aula)**: .
+  - .
   
+### Terceiro Semestre
+
+- **DISCIPLINA**: .
+  - **SIGLA**: .
+  - **CH (hora.aula)**: .
+  - .
+  
+### Quarto Semestre
+
+- **DISCIPLINA**: .
+  - **SIGLA**: .
+  - **CH (hora.aula)**: .
+  - .
+  
+### Quinto Semestre
+
+- **DISCIPLINA**: .
+  - **SIGLA**: .
+  - **CH (hora.aula)**: .
+  - .
+  
+### Sexto Semestre
+
+- **DISCIPLINA**: .
+  - **SIGLA**: .
+  - **CH (hora.aula)**: .
+  - .
+  
+### Sétimo Semestre
+
+- **DISCIPLINA**: .
+  - **SIGLA**: .
+  - **CH (hora.aula)**: .
+  - .
+  
+### Oitavo Semestre
+
 - **DISCIPLINA**: .
   - **SIGLA**: .
   - **CH (hora.aula)**: .
   - .
 
+```{r, echo=FALSE, out.width = '100%', fig.align='center'}
+knitr::include_graphics('template_fim.jpg')
+```
 
