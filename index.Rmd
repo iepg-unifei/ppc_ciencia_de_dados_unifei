@@ -1,0 +1,114 @@
+--- 
+title: ""
+author: ""
+date: ""
+site: bookdown::bookdown_site
+documentclass: book
+classoption: openany
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+\pagenumbering{gobble} 
+
+
+
+# PROJETO PEDAGÓGICO DO CURSO {-}
+
+
+```{r, echo=FALSE, out.width = '80%', fig.align='center'}
+knitr::include_graphics('capa.png')
+```
+
+\thispagestyle{empty}
+\clearpage
+
+
+```{=latex}
+\begin{center}
+```
+
+
+----
+
+
+**INFORMAÇÕES INSTITUCIONAIS**
+
+
+[**UNIVERSIDADE FEDERAL DE ITAJUBÁ**](https://unifei.edu.br/)
+
+Campus Sede Itajubá
+
+
+**REITOR**
+
+[**Prof. Dr. Marcel Fernando da Costa Parentoni**](http://lattes.cnpq.br/3155765503130820)
+
+e-mail: reitoria@unifei.edu.br 
+
+Telefone: (35) 3629-1108
+
+
+**VICE-REITORA**
+
+[**Profa. Dra. Janaina Roberta dos Santos**](http://lattes.cnpq.br/7432170060094937)
+
+e-mail: vicereitor@unifei.edu.br
+ 
+Telefone: (35) 3629-1107 
+
+
+**PRÓ-REITOR DE GRADUAÇÃO**
+
+[**Prof. Dr. Rodrigo Silva Lima**](http://lattes.cnpq.br/4722635758546284)
+
+e-mail: prg@unifei.edu.br
+
+Telefone: (35) 3629-1107 
+
+
+**PRÓ-REITORA DE PÓS-GRADUAÇÃO**
+
+[**Profa. Dra. Vanessa Silveira Barreto Carvalho**](http://lattes.cnpq.br/7313863253044500)
+
+e-mail: prppg@unifei.edu.br 
+ 
+Telefone: (35) 3629-1118 
+
+
+**DIRETOR DO IEPG** 
+
+[**Prof. Dr. Renato da Silva Lima**](http://lattes.cnpq.br/9161092505168234)
+
+e-mail: diretoria.iepg@unifei.edu.br
+
+Telefone: (35) 3629-1296
+
+----
+
+
+**GRUPO DE TRABALHO**
+
+
+[**Prof. Dr. Anderson Paulo de Paiva**](http://lattes.cnpq.br/4728106898297335)
+
+[**Prof. Dr. Carlos Eduardo Sanches da Silva**](http://lattes.cnpq.br/7352874497617480)
+
+[**Prof. Dr. Carlos Henrique Pereira Mello**](http://lattes.cnpq.br/5308382458844172)
+
+[**Profa. Dra. Juliana Helena Daroz Gaudencio**](http://lattes.cnpq.br/9071337247377116)
+
+[**Prof. Dr. Matheus Brendon Francisco**](http://lattes.cnpq.br/8699242021339583)
+
+[**Prof. Dr. Joao Luiz Junho Pereira**](http://lattes.cnpq.br/5864158210538587)
+
+[**Prof. Dr. Victor Eduardo de Mello Valerio**](http://lattes.cnpq.br/1989464933096922)
+
+
+```{=latex}
+\end{center}
+```
+
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}

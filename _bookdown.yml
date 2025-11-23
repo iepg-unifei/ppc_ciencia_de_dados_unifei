@@ -1,0 +1,6 @@
+output_dir: "docs"
+book_filename: "PPC_Ciencia_Dados_Aplicada"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: ""
