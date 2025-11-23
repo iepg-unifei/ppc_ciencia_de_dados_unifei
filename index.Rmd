@@ -16,8 +16,8 @@ github-repo: rstudio/bookdown-demo
 # PROJETO PEDAGÓGICO DO CURSO {-}
 
 
-```{r, echo=FALSE, out.width = '90%', fig.align='center'}
-knitr::include_graphics('template_capa.jpg')
+```{r, echo=FALSE, out.width = '80%', fig.align='center'}
+knitr::include_graphics('capa.png')
 ```
 
 \thispagestyle{empty}

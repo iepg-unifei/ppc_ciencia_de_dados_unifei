@@ -22,7 +22,7 @@ Além de seu caráter aplicado, tais projetos têm natureza extensionista, artic
 
 As trilhas, por sua vez, constituem outro diferencial importante do curso. Elas ampliam a autonomia do estudante, permitindo que personalize sua trajetória acadêmica e se especialize em áreas estratégicas de aplicação da ciência de dados. Ao alinhar conteúdos técnicos a setores específicos, as trilhas fortalecem a interdisciplinaridade, aproximam o aluno de temas contemporâneos e ampliam sua capacidade de atuação em diferentes mercados. Trata-se de um componente estrutural que diferencia o curso pela combinação entre rigor técnico, contextualização prática e relevância social.
 
-# HISTÓRICO DE CRIAÇÃO
+## Histórico de Criação
 
 O Bacharelado em Ciência de Dados Aplicada começou a ser planejado no primeiro semestre de 2023 com a criação da trilha de Machine Learning em Engenharia de Produção. Tendo convergência entre o PDI da UNIFEI (inovação curricular, integração graduação–pós e foco em Indústria 4.0) e a maturidade do Programa de Pós-Graduação em Engenharia de Produção (PPGEP - Conceito CAPES 5), especialmente na linha “Modelagem, Otimização e Controle”. Diante da conversão das expertises dos resultados das pesquisas do programa de pós-graduação em engenharia de produção, apoiada pela infraestrutura do NOMATI.
 
@@ -44,7 +44,7 @@ Dados cadastrais:
 
 -	**Código de cadastro e-mec**: *ainda não tem*.
 
--	**Carga horária do curso**: 3.213 horas/aula.
+-	**Carga horária do curso**: 3.870 horas.aula (3.225 horas.relógio).
 
 -	**Duração prevista em semestres**:  mínima 7 (sete), esperada 8 (oito) e máxima 15 (quinze).
 
@@ -65,7 +65,9 @@ Dados cadastrais:
 
 library(magrittr)
 
-ch <- readxl::read_xlsx(path = 'ch_01.xlsx', sheet = 'ch_total')
+ch <- readxl::read_xlsx(path = 'ch_01.xlsx', 
+                        sheet = 'ch_total',
+                        range = "A1:C8")
 
 knitr::kable(ch) 
 ```
@@ -652,9 +654,10 @@ Vale, Cemig, Embraer e diversas indústrias de base tecnológica, cria um ecossi
 
 O curso de Ciência de Dados Aplicada será naturalmente integrado às atividades do IEPG e NOMATI, possibilitando vivência prática em pesquisa aplicada, inovação aberta, desenvolvimento de produtos e participação em desafios industriais. Essas cooperações fortalecem a formação do estudante e garantem que o curso se mantenha conectado às demandas reais da Indústria 4.0 e dos setores emergentes.
 
+
 # ESTRUTURA CURRICULAR
 
-A estrutura curricular do Bacharelado em Ciência de Dados Aplicada foi organizada de forma a garantir a formação integral do estudante, combinando fundamentos teóricos, habilidades práticas aplicadas a uma trilha de conhecimento. O curso possui 8 períodos, com carga horária total aproximada de 3.213 horas.aula, conforme normas institucionais da UNIFEI. Todas as disciplinas são organizadas a partir de três eixos formativos que se articulam ao longo dos semestres, permitindo ao estudante avançar de fundamentos conceituais para aplicações especializadas:
+A estrutura curricular do Bacharelado em Ciência de Dados Aplicada foi organizada de forma a garantir a formação integral do estudante, combinando fundamentos teóricos, habilidades práticas aplicadas a uma trilha de conhecimento. O curso possui 8 períodos, com carga horária total aproximada de 3.870 horas.aula (3.225 horas.relógio), conforme normas institucionais da UNIFEI. Todas as disciplinas são organizadas a partir de três eixos formativos que se articulam ao longo dos semestres, permitindo ao estudante avançar de fundamentos conceituais para aplicações especializadas:
 
 1. **Núcleo de Conteúdos Básicos e Técnicos**
 
@@ -667,7 +670,7 @@ As trilhas incluem:
 
 - Componentes obrigatórios vinculados aos Projetos Integradores (PI 1 no quarto semestre e PI 2 no sexto semestre), nos quais problemas reais das trilhas são estruturados e solucionados.
 
-- Componentes optativos, cursados no sétimo semestre, dos quais o estudante deve cumprir no mínimo 12 horas-aula em três disciplinas, completando uma trilha com cinco disciplinas aplicadas ao tema escolhido.
+- Componentes optativos, cursados a partir do sexto semestre, dos quais o estudante deve cumprir no mínimo 12 horas-aula em três disciplinas, completando uma trilha com cinco disciplinas aplicadas ao tema escolhido.
 
 Esse eixo promove a contextualização prática dos conteúdos técnicos, o desenvolvimento de soluções orientadas por dados e a formação por áreas de interesse.
 
@@ -677,6 +680,7 @@ Reúne componentes obrigatórios voltados à formação em gestão empresarial, 
 São componentes deste eixo: Gestão Ágil de Projetos, Planejamento e Controle da Produção, Indústria 4.0, Engenharia da Qualidade, Engenharia Econômica e Criação de Negócio.
 
 Essas disciplinas são ofertadas entre o primeiro e o sexto semestre e visam desenvolver competências gerenciais necessárias para a viabilização de soluções, produtos, startups e aplicações resultantes dos conteúdos técnicos e das trilhas.
+
 
 ```{=latex}
 \clearpage
@@ -759,13 +763,14 @@ if (knitr::is_html_output()) {
 }
 ```
 
+
 ```{=latex}
 \end{landscape}
 \clearpage
 ```
 
 
-Considerando os 8 semestres previstos para o curso, o currículo compreende 3.213 horas. Toda sua estrutura foi projetado de forma a balancear as várias unidades de estudo. A previsão é de haver entre 6 e 7 disciplinas por semestre. 
+Considerando os 8 semestres previstos para o curso, o currículo compreende 3.870 horas.aula (3.225 horas.relógio). Toda sua estrutura foi projetado de forma a balancear as várias unidades de estudo. A previsão é de haver entre 6 e 7 disciplinas por semestre. 
 
 Com a finalidade de fortalecer a integração do estudante com os temas característicos da Administração e da Engenharia de Produção — áreas estruturantes do Instituto de Engenharia de Produção e Gestão (IEPG) — o curso adota como optativas todas as disciplinas optativas ofertadas pelos cursos de Administração e Engenharia de Produção. Além disso, no sétimo semestre o estudante deverá obrigatoriamente cursar ao menos uma disciplina optativa que não pertença às trilhas temáticas. Essa diretriz amplia sua vivência acadêmica para além do eixo técnico, estimula a transversalidade entre os cursos do instituto e promove uma formação interdisciplinar e aplicada, alinhada às demandas contemporâneas de profissionais capazes de articular conhecimentos de dados, gestão e processos organizacionais.
 
@@ -924,9 +929,12 @@ Adicionalmente, ao escolher uma trilha, o estudante desenvolve a competência de
 
 As trilhas também fortalecem a interdisciplinaridade, pois conectam conteúdos de estatística, computação e engenharia de dados a saberes específicos de áreas como saúde, biomecânica, mercados, análises de negócio e gestão pública. Dessa forma, o aluno desenvolve uma visão sistêmica e profissionalmente orientada.
 
-No sétimo semestre, o estudante deve cursar as disciplinas optativas de trilha previstas para completar seu percurso formativo, conforme a matriz curricular definida. A lista completa das disciplinas optativas de cada trilha encontra-se apresentada a seguir, conforme planilha oficial da grade curricular.
+A partir do sexto semestre, o estudante deve cursar as disciplinas optativas de trilha previstas para completar seu percurso formativo, conforme a matriz curricular definida. A lista completa das disciplinas optativas de cada trilha encontra-se apresentada a seguir, conforme planilha oficial da grade curricular.
 
 O percurso formativo das disciplinas optativas não se limita exclusivamente às trilhas temáticas. Embora o estudante tenha a possibilidade de aprofundar-se em Saúde, Esporte ou Gestão, o currículo prevê também o acesso a um conjunto ampliado de componentes optativos que abordam temas contemporâneos da área de Ciência de Dados, além de disciplinas ofertadas pelos cursos de Engenharia de Produção e Administração. Essa abertura curricular fortalece a interdisciplinaridade e permite que o discente explore diferentes perspectivas teóricas e aplicadas, ampliando sua formação para além do eixo técnico e temático. 
+
+
+
 
 ```{=latex}
 \begin{center}
@@ -948,92 +956,4 @@ knitr::kable(ch)
 
 Dessa forma, o curso incentiva trajetórias personalizadas, conectadas a interesses acadêmicos e profissionais diversos, sem restringir o desenvolvimento formativo a um único itinerário.
 
-## EMENTÁRIO
-
-A seguir são descritas o ementário das disciplinas do curso de Ciência de Dados Aplicada por sementre.
-
-### Primeiro Semestre
-
-- **DISCIPLINA**: Cálculo A.
-  - **SIGLA**: MAT00A.
-  - **CH (hora.aula)**: 64h.
-  - Funções, Limite e Continuidade, Derivada e Integral.
-  
-- **DISCIPLINA**: Análise Exploratória de Dados.
-  - **SIGLA**: CDAXX.
-  - **CH (hora.aula)**: 48h.
-  - Fundamentos de análise exploratória. Tipos e estruturas de dados. Estatística descritiva. Medidas de tendência central e dispersão. Distribuições de dados. Detecção de outliers. Visualização de dados. Gráficos univariados e multivariados. Correlação e covariância. Transformações de dados. Padronização e normalização. Redução de dimensionalidade exploratória. Tratamento de dados faltantes. Preparação e limpeza de dados. Boas práticas em análise exploratória.
-  
-- **DISCIPLINA**: Probabilidade e Estatística.
-  - **SIGLA**: IEPG03.
-  - **CH (hora.aula)**: 48h.
-  - Conceitos e definições estatísticas; Estatística descritiva; Cálculo de probabilidade; Distribuições de probabilidade para variáveis discretas; Distribuições de probabilidade para variáveis contínuas; estimativa pontual e intervalar; Amostragem.
-  
-- **DISCIPLINA**: Introdução a Ciência de Dados.
-  - **SIGLA**: CDAXX.
-  - **CH (hora.aula)**: 48h.
-  - Fundamentos de Ciência de Dados. Tipos de dados. Coleta e preparação de dados. Limpeza, transformação e integração de dados. Análise exploratória. Visualização de dados. Estatística descritiva. Probabilidade básica. Modelos preditivos introdutórios. Regressão linear simples. Classificação básica. Métricas de avaliação de modelos. Introdução a aprendizado de máquina. Validação cruzada. Overfitting e underfitting. Ética e responsabilidade no uso de dados. Ambientes e ferramentas para Ciência de Dados..
-  
-- **DISCIPLINA**: Programação 1.
-  - **SIGLA**: CDAXX.
-  - **CH (hora.aula)**: 48h.
-  - Fundamentos de programação. Variáveis e tipos de dados. Operadores aritméticos e lógicos. Estruturas condicionais. Estruturas de repetição. Listas, tuplas e dicionários. Strings. Funções. Modularização. Entrada e saída de dados. Tratamento de erros. Arquivos. Introdução a algoritmos. Noções de complexidade. Bibliotecas básicas em Python.
-  
-- **DISCIPLINA**: Engenharia da Transformação Digital.
-  - **SIGLA**: CDAXX.
-  - **CH (hora.aula)**: 48h.
-  - Fundamentos de administração e organizações; estratégia, cadeia de valor e processos; e setores comuns em uma organização (marketing e vendas; operações e supply chain; finanças; recursos humanos. TI e data; jurídico e compliance); transformação digital e modelos de negócio; tendências e futuro.
-
-### Segundo Semestre
-
-- **DISCIPLINA**: .
-  - **SIGLA**: .
-  - **CH (hora.aula)**: .
-  - .
-  
-### Terceiro Semestre
-
-- **DISCIPLINA**: .
-  - **SIGLA**: .
-  - **CH (hora.aula)**: .
-  - .
-  
-### Quarto Semestre
-
-- **DISCIPLINA**: .
-  - **SIGLA**: .
-  - **CH (hora.aula)**: .
-  - .
-  
-### Quinto Semestre
-
-- **DISCIPLINA**: .
-  - **SIGLA**: .
-  - **CH (hora.aula)**: .
-  - .
-  
-### Sexto Semestre
-
-- **DISCIPLINA**: .
-  - **SIGLA**: .
-  - **CH (hora.aula)**: .
-  - .
-  
-### Sétimo Semestre
-
-- **DISCIPLINA**: .
-  - **SIGLA**: .
-  - **CH (hora.aula)**: .
-  - .
-  
-### Oitavo Semestre
-
-- **DISCIPLINA**: .
-  - **SIGLA**: .
-  - **CH (hora.aula)**: .
-  - .
-
-```{r, echo=FALSE, out.width = '100%', fig.align='center'}
-knitr::include_graphics('template_fim.jpg')
-```
 

@@ -1,0 +1,368 @@
+## EMENTÁRIO
+
+### Disciplinas Obrigatórias
+
+A seguir são descritas o ementário das disciplinas obrigatórias do curso de Ciência de Dados Aplicada por sementre.
+
+**Primeiro Semestre**
+
+- **DISCIPLINA**: Cálculo A.
+  - **SIGLA**: MAT00A.
+  - **CH (hora.aula)**: 64h.
+  - Funções, Limite e Continuidade, Derivada e Integral.
+  
+- **DISCIPLINA**: Análise Exploratória de Dados.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de análise exploratória. Tipos e estruturas de dados. Estatística descritiva. Medidas de tendência central e dispersão. Distribuições de dados. Detecção de outliers. Visualização de dados. Gráficos univariados e multivariados. Correlação e covariância. Transformações de dados. Padronização e normalização. Redução de dimensionalidade exploratória. Tratamento de dados faltantes. Preparação e limpeza de dados. Boas práticas em análise exploratória.
+  
+- **DISCIPLINA**: Probabilidade e Estatística.
+  - **SIGLA**: IEPG03.
+  - **CH (hora.aula)**: 48h.
+  - Conceitos e definições estatísticas; Estatística descritiva; Cálculo de probabilidade; Distribuições de probabilidade para variáveis discretas; Distribuições de probabilidade para variáveis contínuas; estimativa pontual e intervalar; Amostragem.
+  
+- **DISCIPLINA**: Introdução a Ciência de Dados.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de Ciência de Dados. Tipos de dados. Coleta e preparação de dados. Limpeza, transformação e integração de dados. Análise exploratória. Visualização de dados. Estatística descritiva. Probabilidade básica. Modelos preditivos introdutórios. Regressão linear simples. Classificação básica. Métricas de avaliação de modelos. Introdução a aprendizado de máquina. Validação cruzada. Overfitting e underfitting. Ética e responsabilidade no uso de dados. Ambientes e ferramentas para Ciência de Dados..
+  
+- **DISCIPLINA**: Programação 1.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de programação. Variáveis e tipos de dados. Operadores aritméticos e lógicos. Estruturas condicionais. Estruturas de repetição. Listas, tuplas e dicionários. Strings. Funções. Modularização. Entrada e saída de dados. Tratamento de erros. Arquivos. Introdução a algoritmos. Noções de complexidade. Bibliotecas básicas em Python.
+  
+- **DISCIPLINA**: Engenharia da Transformação Digital.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de administração e organizações; estratégia, cadeia de valor e processos; e setores comuns em uma organização (marketing e vendas; operações e supply chain; finanças; recursos humanos. TI e data; jurídico e compliance); transformação digital e modelos de negócio; tendências e futuro.
+
+**Segundo Semestre**
+
+- **DISCIPLINA**: Cálculo B.
+  - **SIGLA**: MAT00B.
+  - **CH (hora.aula)**: 64h.
+  - Equações Paramétricas e Coordenadas Polares, Geometria Analítica, Funções Vetoriais, Funções de Várias Variáveis e Derivadas Parciais.
+  
+- **DISCIPLINA**: Álgebra Linear Computacional.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Espaços Vetoriais. Bases e Dimensão. Espaços com produto interno. Transformações lineares. Autovalores e autovetores. Aplicações à Geometria Analítica. Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposição SVD. Condicionamento. Decomposição QR. Tópicos em análise numérica. Teoria dos Números. Criptografia básica.
+  
+- **DISCIPLINA**: Inferência Estatística.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 32h.
+  - Teste de hipóteses; Análise de variância; Correlação linear e regressão; Regressão múltipla; Análise de séries temporais; Métodos de amostragem.
+  
+- **DISCIPLINA**: Estrutura de Dados e Algoritmos.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Tipos abstratos de dados. Listas, pilhas e filas. Árvores. Árvores binárias e árvores balanceadas. Tabelas de dispersão (hash). Grafos. Algoritmos de busca. Algoritmos de ordenação. Análise de complexidade. Notação Big-O. Recursão. Estratégias de projeto de algoritmos. Divisão e conquista. Programação dinâmica. Algoritmos gulosos.
+  
+- **DISCIPLINA**: Programação 2.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Programação orientada a objetos. Classes e objetos. Encapsulamento, herança e polimorfismo. Manipulação avançada de estruturas de dados. Tratamento de exceções. Módulos e pacotes. Programação funcional. Geradores e compreensões. Decoradores. Manipulação de arquivos e diretórios. Expressões regulares. Testes automatizados. Introdução à concorrência e paralelismo. Bibliotecas avançadas em Python. Boas práticas de desenvolvimento.
+  
+- **DISCIPLINA**: Visualização de Dados.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Visualização de dados para apoio à decisão, com foco prático em Power BI e complemento por Tableau/Looker Studio/Grafana e Python (pandas/Plotly). Abrange princípios de design e storytelling, escolha de gráficos, modelagem BI (fatos/dimensões), Power Query e DAX para KPIs, conexão a fontes (Excel/SQL/APIs), atualização, publicação no Power BI Service, governança e segurança (RLS).
+  
+- **DISCIPLINA**: Gestão Ágil de Projetos.
+  - **SIGLA**: EPOP10.
+  - **CH (hora.aula)**: 32h.
+  - Princípios do Agile e do Manifesto, comparação de frameworks (Scrum, Kanban, Lean, XP) e escolha por contexto. Foca em papéis (PO, Scrum Master, equipe), colaboração com stakeholders, visão e objetivos, backlog priorizado por valor/risco, histórias de usuário, estimativas (Planning Poker) e planejamento de sprints com metas e DoR/DoD. Cerimônias (daily, planning, review, retro), métricas de fluxo e valor (lead/cycle time, velocidade, burn-down/up, Cumulative Flow) e gestão visual com Kanban e políticas de WIP. Validação com usuários, gestão de dependências, riscos e qualidade, governança ágil com OKRs e roadmaps, contratos flexíveis e integração com produto/engenharia.
+  
+  
+**Terceiro Semestre**
+
+- **DISCIPLINA**: Cálculo C.
+  - **SIGLA**: MAT00C.
+  - **CH (hora.aula)**: 64h.
+  - Integrais Múltiplas e Cálculo Vetorial.
+  
+- **DISCIPLINA**: Otimização 1.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de otimização. Funções de uma variável. Conceitos de mínimo e máximo. Condições de otimalidade. Métodos de busca unidimensional. Busca exaustiva. Busca incremental. Método da bisseção. Método da secante. Método de Newton. Métodos quasi-Newton. BFGS e variantes. Métodos de região de confiança. Métodos baseados em derivadas e sem derivadas. Convergência e análise de desempenho. Aplicações em problemas reais. Introdução a Metaheuristicas.
+  
+- **DISCIPLINA**: Machine Learning 1.
+  - **SIGLA**: EPOP17.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de programação em Python, aprendizagem supervisionada (problemas de regressão e classificação), não supervisionada; Técnicas de balanceamento; Métricas de validação de modelos de regressão (MSE, RMSE, MAE, MAPE) e classificação (acurácia, sensibilidade, especificidade, curva ROC, matriz de confusão); Técnicas de avaliação da capacidade de generalização do modelo (validação cruzada); Análise descritiva, diagnóstica e preditiva; Linguagem de apoio: Python.
+  
+- **DISCIPLINA**: Engenharia de Dados.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 32h.
+  - Fundamentos de engenharia de dados. Arquiteturas de dados. Modelagem e integração de dados. ETL e ELT. Pipelines de dados. Data lakes e data warehouses. Sistemas distribuídos. Processamento em lote e em fluxo. Mensageria e streaming. Qualidade e governança de dados. Escalabilidade e tolerância a falhas. Armazenamento estruturado e não estruturado. Ferramentas e plataformas de engenharia de dados. Observabilidade e monitoramento de pipelines.
+  
+- **DISCIPLINA**: Engenharia de Software .
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de engenharia de software. Processo de desenvolvimento de software. Análise e especificação de requisitos. Modelagem de sistemas. UML. Arquitetura de software. Padrões de projeto. Verificação e validação. Testes de software. Gestão de configuração. Integração contínua. Metodologias ágeis. Gerenciamento de projetos de software. Qualidade de software. Manutenção e evolução..
+  
+- **DISCIPLINA**: Banco de Dados 1.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 32h.
+  - Fundamentos de bancos de dados. Modelagem de dados. Modelo entidade-relacionamento. Esquemas conceitual, lógico e físico. Modelo relacional. Álgebra relacional. Linguagem SQL. Criação e manipulação de tabelas. Consultas básicas e intermediárias. Integridade referencial. Chaves primárias e estrangeiras. Normalização. Operações de inserção, atualização e exclusão. Introdução a SGBDs..
+  
+- **DISCIPLINA**: Planejamento e Controle da Produção.
+  - **SIGLA**: IEPG09.
+  - **CH (hora.aula)**: 48h.
+  - Tipos de sistemas produtivos; Modelos de reposição de estoques; Planejamento hierárquico da produção.
+  
+**Quarto Semestre**
+
+- **DISCIPLINA**: Projeto Integrador 1.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 64h.
+  - Concepção e implementação de um pipeline de dados em tempo real, cobrindo ingestão de fontes como APIs e sensores, processamento com ferramentas de streaming, persistência em camadas e visualização em dashboards. O curso aborda arquitetura de streaming, janelas e agregações, modelagem de machine learning em, além de segurança, LGPD, observabilidade e confiabilidade operacional. Os alunos desenvolvem um protótipo fim a fim com ingestão, processamento, modelo e dashboard, produzem relatório técnico-executivo com métricas de desempenho (latência, throughput, precisão) e insights, e realizam apresentação com demonstração do sistema e discussão de aplicabilidade no mercado.
+  
+- **DISCIPLINA**: Otimização 2.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Otimização multivariável. Condições de otimalidade de primeira e segunda ordem. Métodos de otimização com restrições. Métodos de penalidade e barreira. Métodos de Lagrangiano aumentado. Programação quadrática. Métodos quasi-Newton multivariáveis. SQP. Região de confiança multivariável. Otimização multiobjetivo. Fronteira de Pareto. Métodos escalarizantes. Weighted sum. ε-constraint. Normal Boundary Intersection (NBI). Normalized Normal Constraint (NNC). Otimização evolutiva multiobjetivo (introdução). Análise de convergência e eficiência. Aplicações em engenharia e ciência de dados.
+  
+- **DISCIPLINA**: Machine Learning 2.
+  - **SIGLA**: EPOP18.
+  - **CH (hora.aula)**: 48h.
+  - Introdução a redes neurais e aprendizado profundo; Redes Neurais Convolucionais; Redes Neurais Recorrentes; Autoencoders; Aprendizado por reforço; Modelos Grandes de Linguagem (LLM’s); Linguagem de apoio: Python (TensorFlow).
+  
+- **DISCIPLINA**: Análise e Processamento de Sinais 1.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de sinais e sistemas. Sinais contínuos e discretos. Operações com sinais. Sistemas lineares e invariantes no tempo. Convolução. Transformada de Fourier contínua e discreta. Série de Fourier. Transformada Discreta de Fourier (DFT) e FFT. Filtragem no domínio do tempo e da frequência. Amostragem e quantização. Transformada Z. Estabilidade e resposta em frequência. Filtros digitais FIR e IIR. Deteção e extração de características. Processamento estatístico de sinais. Aplicações em engenharia, computação e ciência de dados.
+  
+- **DISCIPLINA**: Computação em Núvem.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de computação em nuvem. Modelos de serviço: IaaS, PaaS e SaaS. Modelos de implantação: nuvem pública, privada e híbrida. Virtualização. Contêineres e orquestração. Armazenamento em nuvem. Redes e segurança na nuvem. Escalabilidade e balanceamento de carga. Arquiteturas serverless. Microsserviços. Provisionamento e automação. Custos e otimização de recursos. Principais provedores de nuvem. Boas práticas de operação e governança na nuvem.
+  
+- **DISCIPLINA**: Banco de Dados 2.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Modelos avançados de bancos de dados. Consultas SQL avançadas. Views. Índices. Triggers. Procedures e funções armazenadas. Controle de transações. ACID. Concorrência e bloqueios. Recuperação e logs. Otimização de consultas. Arquitetura interna de SGBDs. Particionamento e replicação. Banco de dados NoSQL. Modelos chave-valor, documento, grafo e coluna. Processamento distribuído de dados. Integração com aplicações. Segurança em bancos de dados.
+  
+- **DISCIPLINA**: Industria 4.0: Conceitos e Fundamentos.
+  - **SIGLA**: EPOP11.
+  - **CH (hora.aula)**: .
+  - As revoluções industriais e a Indústria 4.0; Sistemas ciber físicos; Internet das coisas e de serviços; Automação e machine-to-machine; Inteligência artificial e Big Data; Nuvem e Integração de sistemas; RFID; Realidade aumentada e virtual; Manufatura aditiva; Organização e Trabalho 4.0.
+  
+**Quinto Semestre**
+
+- **DISCIPLINA**: Estatística Multivariada.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: .
+  - Fundamentos de análise multivariada. Matrizes de variâncias e covariâncias. Distância de Mahalanobis. Análise de componentes principais (PCA). Análise fatorial. Análise discriminante. Regressão multivariada. MANOVA. Análise de cluster. Métodos hierárquicos e não hierárquicos. Análise de correspondência. Escalonamento multidimensional. Detecção de outliers multivariados. Normalidade multivariada. Visualização de dados multivariados. Aplicações em ciência de dados, engenharia e ciências sociais.
+  
+- **DISCIPLINA**: Automação Low-Code e Integração de Dados.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: .
+  - .
+  
+- **DISCIPLINA**: Machine Learning 3.
+  - **SIGLA**: EPOP19.
+  - **CH (hora.aula)**: 32h.
+  - Desenvolvimento de um caso prático real, desde a análise descritiva e diagnóstica dos dados, até a implementação por meio da aplicação de técnicas adequadas de Machine/deep Learning.
+
+- **DISCIPLINA**: Análise e Processamento de Sinais 2. 
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Análise tempo-frequência. STFT. Espectrogramas. Wavelets contínuas e discretas. Filtros digitais avançados. Projeto e implementação de filtros FIR e IIR. Filtros adaptativos. LMS e RLS. Modelagem AR, MA e ARMA. Estimação espectral paramétrica e não paramétrica. Processamento de sinais não estacionários. Detecção e classificação de padrões em sinais. Transformadas rápidas e otimizações. Processamento multicanais. Beamforming. Técnicas de separação cega de fontes. ICA. Sinais em ambientes ruidosos. Técnicas de denoising. Aplicações avançadas em engenharia, biomédica, comunicações e vibrações.
+  
+- **DISCIPLINA**: Big Data e Processamento Distribuído.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de Big Data. Arquiteturas distribuídas. Sistemas de arquivos distribuídos. Hadoop e HDFS. MapReduce. Processamento em lote e em fluxo. Apache Spark. RDDs e DataFrames. Otimização de jobs distribuídos. Sistemas de mensageria. Kafka. Pipelines distribuídos. NoSQL e armazenamento escalável. Particionamento e replicação. Tolerância a falhas. Consistência e modelos CAP. Escalabilidade horizontal. Monitoramento e observabilidade em sistemas distribuídos. Boas práticas de processamento distribuído em larga escala.
+  
+- **DISCIPLINA**: Ética e Governança de Dados.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de ética em tecnologia. Princípios de privacidade. Proteção de dados pessoais. LGPD e legislações correlatas. Consentimento e bases legais. Governança de dados. Qualidade e ciclo de vida dos dados. Segurança da informação. Riscos e impactos sociais da IA. Viés algorítmico. Transparência e explicabilidade. Auditoria e conformidade. Responsabilidade digital. Boas práticas de gestão e uso ético de dados.
+  
+- **DISCIPLINA**: Engenharia da Qualidade.
+  - **SIGLA**: EPR703.
+  - **CH (hora.aula)**: 48h.
+  - Análise do sistema de medição (gage r&r para variáveis e atributos), controle estatístico de processos (gráficos de controle para variáveis e atributos), índices de capabilidade (cpk, ppk, zbench), amostragem, previsão (introdução a séries temporais, redes neurais artificiais para previsão).
+  
+  
+**Sexto Semestre**
+
+- **DISCIPLINA**: Projeto Integrador 2.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 64h.
+  - visa desenvolver uma solução de machine learning para um problema real em áreas como saúde, educação e segurança. O projeto começa com uma introdução que justifica a relevância do problema e segue com uma metodologia em etapas.
+Primeiro, realiza-se a pesquisa e levantamento de dados relevantes. Em seguida, é feita uma análise exploratória para entender os dados coletados. O desenvolvimento do modelo envolve a escolha do algoritmo apropriado e o treinamento do modelo de machine learning. A implementação consiste na criação de um protótipo, integrando o modelo em uma plataforma. Os resultados esperados incluem a avaliação do modelo com métricas como precisão e recall, além de discutir o impacto da solução no problema social.
+
+- **DISCIPLINA**: Engenharia Econômica.
+  - **SIGLA**: IEPG10.
+  - **CH (hora.aula)**: 48h.
+  - Conceitos fundamentais sobre engenharia econômica; matemática financeira; análise de alternativas de investimentos; técnicas de tomada de decisão (VPL, TIR, VA, Pay-Back); métodos de depreciação; influência dos impostos sobre lucro; influência do financiamento com capital de terceiros; demonstração de resultados de um projeto; fluxo de caixa livre do empreendimento e do empreendedor; análise de risco e incerteza na avaliação de projetos.
+
+- **DISCIPLINA**: Metaheuristicas.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de otimização heurística. Heurísticas construtivas e de busca local. Metaheurísticas clássicas. Simulated Annealing. Algoritmos Genéticos. Estratégias Evolutivas. Enxame de Partículas (PSO). Colônia de Formigas (ACO). Busca Tabu. GRASP. ILS. VNS. Metaheurísticas híbridas. Parametrização e controle adaptativo. Critérios de parada. Otimização multiobjetivo metaheurística. Fronteira de Pareto evolutiva. Avaliação de desempenho e análise de convergência. Aplicações em engenharia, computação e ciência de dados.
+  
+- **DISCIPLINA**: Engenharia da Qualidade 2.
+  - **SIGLA**: EPR802.
+  - **CH (hora.aula)**: 48h.
+  - Planejamento e otimização de experimentos (experimentos fatoriais completos e fracionários, experimentos exploratórios, experimentos de taguchi, metodologia de superfície de resposta, experimentos com misturas, otimização de múltiplas respostas). metodologia seis sigma (dmaic e dfss, projetos seis sigma).
+  
+- **DISCIPLINA**: Visão Computacional.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de visão computacional. Formação de imagens. Representação digital de imagens. Pré-processamento e filtragem espacial. Filtros no domínio da frequência. Detecção de bordas e contornos. Segmentação de imagens. Morfologia matemática. Extração de características. Descritores locais e globais. Correspondência de características. Reconhecimento de padrões. Processamento de vídeo. Rastreamento de objetos. Calibração de câmeras. Reconstrução 3D (introdução). Visão computacional clássica versus técnicas baseadas em aprendizado profundo. Aplicações em indústria, saúde e automação.
+  
+  
+**Sétimo Semestre**
+
+- **DISCIPLINA**: Criação de Negócios.
+  - **SIGLA**: EP7002.
+  - **CH (hora.aula)**: 48h.
+  - Mindset empreendedor; Modelos de negócios tradicionais versus modelos de negócios inovadores (Startups); Tendências de mercado (Sustentabilidade, Empresas Humanizadas); Identificando oportunidades; Design Thinking; Pesquisa Mercadologia e Pesquisa Design; Desenvolvimento de um modelo de negócio (Canvas); Prototipagem do negócio; Elaboração de um plano de negócio.
+
+- **DISCIPLINA**: Agentes de IA.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos de agentes inteligentes. Arquiteturas de agentes. Agentes reativos, deliberativos e híbridos. Agentes baseados em objetivos e utilidade. Modelagem de ambientes. Percepção e atuação. Planejamento automático. Busca heurística. Raciocínio e tomada de decisão. Lógica e inferência. Aprendizado por reforço. Políticas e funções de valor. Agentes multiagentes. Comunicação e cooperação. Competição e jogos. Ética e segurança em agentes autônomos. Aplicações práticas de agentes de IA..
+
+
+### Disciplinas Optativas das Trilhas
+
+- **DISCIPLINA**: Data Analytics Aplicado à Saúde.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Estudo e aplicação de técnicas de análise de dados voltadas ao setor de saúde. Uso de bases clínicas, hospitalares, epidemiológicas e administrativas. Métodos de análise exploratória, integração e limpeza de dados em saúde. Modelagem estatística e aprendizado de máquina para apoio ao diagnóstico, previsão de demanda, análise de risco e avaliação de desfechos. Construção de dashboards, indicadores e ferramentas de apoio à decisão. Aplicações em saúde pública, gestão hospitalar, vigilância epidemiológica e atenção primária. Desenvolvimento de estudos de caso com dados reais do setor.
+  
+- **DISCIPLINA**: Machine Learning e Padrões em Saúde.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Conceitos e técnicas de aprendizado de máquina aplicados à detecção de padrões em dados biomédicos, clínicos e epidemiológicos. Modelos supervisionados e não supervisionados para análise de sinais vitais, séries temporais, registros eletrônicos de saúde e dados populacionais. Métodos de seleção de atributos, avaliação de modelos e validação em cenários sensíveis. Interpretação de modelos de ML em saúde e princípios de explainable AI (XAI). Aplicações em previsão de eventos adversos, estratificação de risco, reconhecimento de padrões fisiológicos e apoio à decisão clínica.
+  
+- **DISCIPLINA**: Análise de Imagens Médicas com IA.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Estudo dos fundamentos, técnicas e modelos de inteligência artificial aplicados à análise de imagens médicas. Processamento e pré-processamento de imagens radiológicas, tomográficas, ultrassonográficas e de ressonância magnética. Redes neurais convolucionais (CNNs), segmentação, detecção de anomalias e classificação de estruturas anatômicas. Uso de bancos de imagens médicos, controle de qualidade e aspectos éticos na utilização de IA em diagnósticos por imagem. Desenvolvimento de aplicações práticas e estudos de caso simulando fluxos de diagnóstico assistido por computador.
+  
+- **DISCIPLINA**: Tópicos Especiais: Fontes de Dados da Saúde.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Exploração de diferentes ecossistemas e fontes de dados relacionados à saúde. Bases administrativas, epidemiológicas e clínicas: e-SUS, SIH/SUS, SIA/SUS, SINAN, SIM, CNES, ANS, bancos de imagens médicos, sensores e dispositivos vestíveis. Estruturação de bases, padrões de interoperabilidade e formatos de dados em saúde. Limitações, vieses e desafios de qualidade, privacidade e governança. Técnicas para integração, enriquecimento e análise de dados provenientes de múltiplas fontes. 
+  
+- **DISCIPLINA**: Data Analytics Aplicado ao Esporte.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Introdução à análise de dados esportivos e aos principais indicadores de desempenho coletivo e individual. Estruturas de dados provenientes de jogos, treinamentos, sensores, wearables e sistemas de rastreamento. Técnicas de análise exploratória, criação de métricas, construção de dashboards esportivos e interpretação de indicadores táticos e físicos. Aplicações em monitoramento de performance, análise de jogo, gestão esportiva e suporte à tomada de decisão por comissão técnica e gestores.
+  
+- **DISCIPLINA**: Machine Learning para Precificação de Atletas.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Modelagem computacional aplicada à avaliação e precificação de atletas. Construção de bases históricas de desempenho, variáveis de mercado e indicadores técnicos. Métodos de regressão, modelos estatísticos e algoritmos de machine learning utilizados para estimar valor de mercado, projeção de desempenho futuro e análise de risco. Técnicas de feature engineering específicas para contexto esportivo. Avaliação de modelos e uso ético de algoritmos em decisões contratuais e de investimento.
+  
+- **DISCIPLINA**: Machine Learning para Carga de Treino e Prevenção de Lesões.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Estudo de algoritmos de machine learning aplicados à modelagem de carga externa e interna de atletas. Processamento de dados de GPS, acelerômetros, plataformas de força, sensores fisiológicos e registros médicos. Identificação de padrões associados à sobrecarga, fadiga e risco de lesão. Construção de modelos preditivos para otimização do planejamento de treinos, controle de carga e redução de incidência de lesões. Discussão sobre validação, limiares, interpretação prática dos modelos e recomendações para comissões técnicas.
+  
+- **DISCIPLINA**: Scouting com Machine Learning.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Aplicações de ciência de dados para scouting e tomada de decisão em captação de talentos. Análise de dados técnicos, táticos, físicos e comportamentais. Modelos de classificação e ranqueamento para identificação de atletas promissores. Técnicas de detecção de padrões, análise de similaridade e clustering para perfis de jogadores. Uso de dados de múltiplas ligas, competições e categorias de base. Construção de relatórios automatizados e integração de algoritmos ao processo de avaliação de atletas.
+  
+- **DISCIPLINA**: Tópicos Especiais: Fontes de Dados no Esporte.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Mapeamento e exploração das principais fontes de dados esportivos. Dados de tracking, event data, sensores vestíveis, plataformas de streaming, relatórios oficiais de competições e bancos de dados públicos e privados. Estrutura, formatos e restrições das bases (CSV, JSON, APIs, OPTA, Wyscout, Instat, Second Spectrum). Desafios de qualidade, padronização, interoperabilidade e privacidade. Integração e preparação de bases para uso em projetos de análise, scouting ou machine learning.
+  
+- **DISCIPLINA**: Tópicos Especiais: Visualização de Dados no Esporte.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Princípios e técnicas de visualização aplicadas ao contexto esportivo. Construção de gráficos, mapas de calor, passes, ações, pressões e modelos táticos usando ferramentas especializadas. Visualização de séries temporais de carga, indicadores físicos e métricas de jogo. Design de dashboards para comissões técnicas e gestores. Boas práticas de narrativa visual e comunicação analítica com foco em tomada de decisão esportiva. Uso de templates e bibliotecas específicas para dados esportivos.
+  
+- **DISCIPLINA**: Data Analytics Aplicado à Gestão.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Aplicação de técnicas de análise de dados em processos organizacionais. Estruturação de indicadores-chave de desempenho (KPIs), análise exploratória de dados corporativos, criação de dashboards gerenciais e apoio à tomada de decisão baseada em evidências. Uso de métricas financeiras, operacionais, logísticas e de recursos humanos. Estudo de casos envolvendo eficiência produtiva, desempenho de equipes, comportamento de clientes e melhoria de processos.
+  
+- **DISCIPLINA**: Ciência de Dados para Gestão de Portfólios.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Análise e modelagem de portfólios corporativos e financeiros utilizando métodos quantitativos. Construção de bases históricas, avaliação de risco, correlação entre ativos e otimização de portfólios. Algoritmos para previsão de retornos, simulação de cenários e tomada de decisão sob incerteza. Abordagem aplicada à gestão de produtos, projetos, investimentos e inovação, integrando indicadores estratégicos e métricas quantitativas.
+  
+- **DISCIPLINA**: Ciência de Dados para Análise de Conjuntura Macroeconômica.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Aplicação de métodos quantitativos ao estudo da conjuntura econômica. Construção e interpretação de séries temporais macroeconômicas (PIB, inflação, juros, emprego, comércio exterior). Modelos de previsão, análise de ciclos, decomposição e simulação de cenários. Uso de técnicas de machine learning para identificação de padrões macroeconômicos. Aplicações em planejamento, políticas públicas, análise setorial e tomada de decisão estratégica.
+  
+- **DISCIPLINA**: Tópicos Especiais: Machine Learning para Marketing.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Introdução a modelos de aprendizado de máquina voltados ao comportamento do consumidor e às estratégias de marketing. Segmentação de clientes, modelagem de churn, recomendação de produtos e previsão de demanda. Análise de funis de conversão, lifetime value (LTV) e otimização de campanhas. Aplicações práticas com dados de mercado, mídias digitais e estratégias omnichannel.
+  
+- **DISCIPLINA**: Tópicos Especiais: Fontes de Dados Econômicos.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Exploração das principais bases de dados econômicos nacionais e internacionais. Indicadores macro e microeconômicos: produção, preços, mercado de trabalho, finanças públicas, comércio exterior, contas nacionais e crédito. Formatos, padrões e limitações das bases (IPEA, IBGE, BACEN, B3, FMI, OCDE, OIT, ONU, entre outras). Técnicas de coleta, limpeza, integração e análise crítica. Preparação de dados para modelagem econométrica e machine learning.
+  
+- **DISCIPLINA**: Tópicos Especiais: Econometria.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Fundamentos e aplicações de métodos econométricos em problemas reais de gestão e economia. Modelos de regressão linear e extensões, diagnóstico e tratamento de violações de hipóteses. Modelos para dados de painel, séries temporais e variáveis qualitativas. Estimação, inferência e interpretação de parâmetros para suporte à tomada de decisão. Aplicações práticas em mercado, políticas públicas, finanças e comportamento econômico.
+
+### Disciplinas Optativas Gerais
+
+- **DISCIPLINA**: Data Analytics Aplicado à Energia.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Estudo e aplicação de técnicas de análise de dados voltadas ao setor de energia. Exploração de bases de dados energéticos, incluindo geração, transmissão, distribuição e consumo. Modelagem estatística e aprendizado de máquina para previsão de demanda, detecção de perdas não técnicas, análise de eficiência energética e avaliação de desempenho de sistemas elétricos.
+  
+- **DISCIPLINA**: Computação Quântica para Machine Learning (Quantum AI).
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Introdução aos fundamentos da computação quântica e seu uso em algoritmos de
+Machine Learning. Qubits, portas quânticas, circuitos e operações fundamentais.
+Variational Quantum Circuits (VQC), Quantum Neural Networks (QNNs), Quantum Kernel
+Methods, Quantum PCA. Simulações e execução em hardware quântico. Aplicações
+emergentes em otimização, previsão, criptografia e IA híbrida quântico-clássica.
+  
+- **DISCIPLINA**: Edge AI e Sistemas Embarcados Inteligentes.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Desenvolvimento de modelos de IA otimizados para execução em dispositivos embarcados
+e sistemas de baixa potência. Técnicas de quantização, poda, compressão, distilação e
+otimização de modelos para hardware especializado. Integração com microcontroladores,
+sensores e sistemas IoT. Aplicações em manufatura, saúde, automação e smart cities.
+
+  
+- **DISCIPLINA**: Quantificação de Incertezas em modelos de IA.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Métodos estatísticos e computacionais para quantificação e propagação de incertezas em
+modelos de Machine Learning e Deep Learning. Inferência Bayesiana, Deep Ensembles,
+Conformal Prediction, calibragem de confiança e análise probabilística de modelos.
+Avaliação de risco em aplicações críticas (indústria, saúde, energia). Implementação
+prática e análise de segurança e confiabilidade de modelos.
+  
+- **DISCIPLINA**: IA Simbólica e Sistemas Baseados em Conhecimento.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Estudo dos fundamentos da Inteligência Artificial Simbólica, raciocínio lógico,
+representação de conhecimento e sistemas baseados em regras. Ontologias, raciocínio
+dedutivo, indutivo e abdutivo. Métodos de busca simbólica, planejamento, provas
+automáticas e processamento simbólico de linguagem. Integração entre IA simbólica e
+métodos conexionistas (Neuro-Symbolic AI). Construção de sistemas especialistas
+modernos aplicados à indústria, saúde e engenharia.
+  
+- **DISCIPLINA**: Aprendizado por Reforço Profundo Avançado.
+  - **SIGLA**: CDAXX.
+  - **CH (hora.aula)**: 48h.
+  - Estudo aprofundado de Aprendizado por Reforço (RL) integrado a Deep Learning, com foco
+em algoritmos de estado da arte. Métodos baseados em política, valor e modelos. Deep QLearning avançado, PPO, SAC, TD3, DDPG. Multi-Agent RL. Curvas de recompensa,
+estabilidade, exploração e otimização. Aplicações em robótica, automação, economia
+computacional e sistemas industriais.
+
+
+```{r, echo=FALSE, out.width = '80%', fig.align='center'}
+knitr::include_graphics('capa.png')
+```
