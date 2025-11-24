@@ -204,7 +204,7 @@ Primeiro, realiza-se a pesquisa e levantamento de dados relevantes. Em seguida, 
   - **CH (hora.aula)**: 48h.
   - Fundamentos de otimização heurística. Heurísticas construtivas e de busca local. Metaheurísticas clássicas. Simulated Annealing. Algoritmos Genéticos. Estratégias Evolutivas. Enxame de Partículas (PSO). Colônia de Formigas (ACO). Busca Tabu. GRASP. ILS. VNS. Metaheurísticas híbridas. Parametrização e controle adaptativo. Critérios de parada. Otimização multiobjetivo metaheurística. Fronteira de Pareto evolutiva. Avaliação de desempenho e análise de convergência. Aplicações em engenharia, computação e ciência de dados.
   
-- **DISCIPLINA**: Engenharia da Qualidade 2.
+- **DISCIPLINA**: Projeto e Análise de Experimentos.
   - **SIGLA**: EP7001.
   - **CH (hora.aula)**: 48h.
   - Testes de Hipótese; ANOVA; Regressão; Método dos Mínimos Quadrados Ordinários; Arranjos Fatoriais Completos; Arranjos Fatoriais Fracionados; Confundimento e Resolução; Plackett-Burman; Arranjos Ortogonais de Taguchi; Metodologia de Superfície de Resposta; Análise de curvatura; Método do Vetor Gradiente; Arranjo composto central; Box-Behnken; Doptimal designs; Convexidade de funções; Autovalores; Otimização Não-linear; Rotacionalidade; Restrições de Espaço experimental; Restrição esférica; Restrição Elíptica; Otimização de múltiplas respostas; Otimização simultânea de média e variância
