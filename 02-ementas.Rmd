@@ -181,9 +181,9 @@ A seguir são descritas o ementário das disciplinas obrigatórias do curso de C
   - Fundamentos de ética em tecnologia. Princípios de privacidade. Proteção de dados pessoais. LGPD e legislações correlatas. Consentimento e bases legais. Governança de dados. Qualidade e ciclo de vida dos dados. Segurança da informação. Riscos e impactos sociais da IA. Viés algorítmico. Transparência e explicabilidade. Auditoria e conformidade. Responsabilidade digital. Boas práticas de gestão e uso ético de dados.
   
 - **DISCIPLINA**: Engenharia da Qualidade.
-  - **SIGLA**: EPR703.
+  - **SIGLA**: EP6004.
   - **CH (hora.aula)**: 48h.
-  - Análise do sistema de medição (gage r&r para variáveis e atributos), controle estatístico de processos (gráficos de controle para variáveis e atributos), índices de capabilidade (cpk, ppk, zbench), amostragem, previsão (introdução a séries temporais, redes neurais artificiais para previsão).
+  - Tolerância; Média e Variância de Variáveis Aleatórias; Média e Variância de Funções de Variáveis Aleatórias; Alocação de tolerância; Minimização dos custos de manufatura; Modelagem de Funções de Custo; Regressão Não Linear; Múltiplas características da qualidade; Tolerância para relações não lineares entre componentes; Programação Não-linear; Multiplicadores de Lagrange; Função Perda; Função NTB; Função STB; Função LTB; Projeto robusto; Capacidade de Processo; Índices de Capacidade de Processo para Variáveis (Cp, Cpk, Pp, Ppk, Cpm); Índices de Capacidade de Processo para Atributos; Nível Sigma; Roadmap Six Sigma®; ANOVA para fatores fixos; ANOVA para fatores com níveis aleatórios; ANOVA para fatores mistos; Análise de Sistemas de Medição; Estudos de R&R para variáveis; Estudo de R&R para atributos; Linearidade; Erro Sistemático.
   
   
 **Sexto Semestre**
@@ -205,9 +205,9 @@ Primeiro, realiza-se a pesquisa e levantamento de dados relevantes. Em seguida, 
   - Fundamentos de otimização heurística. Heurísticas construtivas e de busca local. Metaheurísticas clássicas. Simulated Annealing. Algoritmos Genéticos. Estratégias Evolutivas. Enxame de Partículas (PSO). Colônia de Formigas (ACO). Busca Tabu. GRASP. ILS. VNS. Metaheurísticas híbridas. Parametrização e controle adaptativo. Critérios de parada. Otimização multiobjetivo metaheurística. Fronteira de Pareto evolutiva. Avaliação de desempenho e análise de convergência. Aplicações em engenharia, computação e ciência de dados.
   
 - **DISCIPLINA**: Engenharia da Qualidade 2.
-  - **SIGLA**: EPR802.
+  - **SIGLA**: EP7001.
   - **CH (hora.aula)**: 48h.
-  - Planejamento e otimização de experimentos (experimentos fatoriais completos e fracionários, experimentos exploratórios, experimentos de taguchi, metodologia de superfície de resposta, experimentos com misturas, otimização de múltiplas respostas). metodologia seis sigma (dmaic e dfss, projetos seis sigma).
+  - Testes de Hipótese; ANOVA; Regressão; Método dos Mínimos Quadrados Ordinários; Arranjos Fatoriais Completos; Arranjos Fatoriais Fracionados; Confundimento e Resolução; Plackett-Burman; Arranjos Ortogonais de Taguchi; Metodologia de Superfície de Resposta; Análise de curvatura; Método do Vetor Gradiente; Arranjo composto central; Box-Behnken; Doptimal designs; Convexidade de funções; Autovalores; Otimização Não-linear; Rotacionalidade; Restrições de Espaço experimental; Restrição esférica; Restrição Elíptica; Otimização de múltiplas respostas; Otimização simultânea de média e variância
   
 - **DISCIPLINA**: Visão Computacional.
   - **SIGLA**: CDAXX.

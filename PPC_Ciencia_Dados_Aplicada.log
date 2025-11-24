@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.22)  23 NOV 2025 19:27
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.22)  23 NOV 2025 21:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -980,10 +980,10 @@ Overfull \hbox (18.74808pt too wide) in alignment at lines 1410--1428
 
 ] [35] [36] [37] [38] [39] [40] [41] [42]
 Missing character: There is no ε ("3B5) in font ec-lmr10!
-[43] [44] [45] [46] [47] [48] [49] [50]
+[43] [44] [45] [46] [47] [48] [49] [50] [51]
 File: capa.png Graphic file (type bmp)
 <capa.png>
-[51] [52] (./PPC_Ciencia_Dados_Aplicada.aux)
+[52] (./PPC_Ciencia_Dados_Aplicada.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
@@ -999,6 +999,6 @@ Here is how much of TeX's memory you used:
  47587 multiletter control sequences out of 15000+600000
  668783 words of font info for 75 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 90i,7n,113p,1067b,488s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,7n,113p,1067b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on PPC_Ciencia_Dados_Aplicada.pdf (56 pages).
