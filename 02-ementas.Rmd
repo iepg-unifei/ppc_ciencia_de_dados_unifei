@@ -14,7 +14,7 @@ A seguir são descritas o ementário das disciplinas obrigatórias do curso de C
 - **DISCIPLINA**: Análise Exploratória de Dados.
   - **SIGLA**: CDAXX.
   - **CH (hora.aula)**: 48h.
-  - Fundamentos de análise exploratória. Tipos e estruturas de dados. Estatística descritiva. Medidas de tendência central e dispersão. Distribuições de dados. Detecção de outliers. Visualização de dados. Gráficos univariados e multivariados. Correlação e covariância. Transformações de dados. Padronização e normalização. Redução de dimensionalidade exploratória. Tratamento de dados faltantes. Preparação e limpeza de dados. Boas práticas em análise exploratória.
+  - Fundamentos de análise exploratória. Tipos e estruturas de dados. Estatística descritiva. Medidas de tendência central e dispersão. Distribuições de dados. Detecção de outliers. Visualização de dados. Gráficos univariados e multivariados. Correlação e covariância. Transformações de dados. Padronização e normalização. Redução de dimensionalidade exploratória. Tratamento de dados faltantes. Preparação e limpeza de dados. Boas práticas em análise exploratória. Realização das análises em ambiente de programação.
   
 - **DISCIPLINA**: Probabilidade e Estatística.
   - **SIGLA**: IEPG03.
@@ -24,17 +24,18 @@ A seguir são descritas o ementário das disciplinas obrigatórias do curso de C
 - **DISCIPLINA**: Introdução a Ciência de Dados.
   - **SIGLA**: CDAXX.
   - **CH (hora.aula)**: 48h.
-  - Fundamentos de Ciência de Dados. Tipos de dados. Coleta e preparação de dados. Limpeza, transformação e integração de dados. Análise exploratória. Visualização de dados. Estatística descritiva. Probabilidade básica. Modelos preditivos introdutórios. Regressão linear simples. Classificação básica. Métricas de avaliação de modelos. Introdução a aprendizado de máquina. Validação cruzada. Overfitting e underfitting. Ética e responsabilidade no uso de dados. Ambientes e ferramentas para Ciência de Dados..
+  - Considerações preliminares; Definição da Ciência de Dados; Mercado de Ciência de Dados no Brasil; Áreas da Ciência de Dados; 
+Ética na Ciência de Dados;
   
 - **DISCIPLINA**: Programação 1.
   - **SIGLA**: CDAXX.
   - **CH (hora.aula)**: 48h.
-  - Fundamentos de programação. Variáveis e tipos de dados. Operadores aritméticos e lógicos. Estruturas condicionais. Estruturas de repetição. Listas, tuplas e dicionários. Strings. Funções. Modularização. Entrada e saída de dados. Tratamento de erros. Arquivos. Introdução a algoritmos. Noções de complexidade. Bibliotecas básicas em Python.
+  - Fundamentos de programação. Variáveis e tipos de dados. Operadores aritméticos e lógicos. Estruturas condicionais. Estruturas de repetição. Listas, tuplas e dicionários. Strings. Funções. Modularização. Entrada e saída de dados. Tratamento de erros. Arquivos. Introdução a algoritmos. Noções de complexidade. Bibliotecas básicas em linguagem de programação.
   
 - **DISCIPLINA**: Engenharia da Transformação Digital.
   - **SIGLA**: CDAXX.
   - **CH (hora.aula)**: 48h.
-  - Fundamentos de administração e organizações; estratégia, cadeia de valor e processos; e setores comuns em uma organização (marketing e vendas; operações e supply chain; finanças; recursos humanos. TI e data; jurídico e compliance); transformação digital e modelos de negócio; tendências e futuro.
+  - As revoluções industriais e a digitalização; Sistemas ciber físicos; Internet das coisas e de serviços; Automação e machine-to-machine; Inteligência artificial e Big Data; Núvem e Integração de sistemas; RFID; Realidade aumentada e virtual; Manufatura aditiva; Organização e Trabalho.
 
 **Segundo Semestre**
 
@@ -51,7 +52,7 @@ A seguir são descritas o ementário das disciplinas obrigatórias do curso de C
 - **DISCIPLINA**: Inferência Estatística.
   - **SIGLA**: CDAXX.
   - **CH (hora.aula)**: 32h.
-  - Teste de hipóteses; Análise de variância; Correlação linear e regressão; Regressão múltipla; Análise de séries temporais; Métodos de amostragem.
+  - Teste de hipóteses; Conceito de Estimador; Conceito de Viés; Conceito Eficiência; Heterocedasticidade, Autorrelação serial; Correlação linear e regressão; Regressão múltipla.
   
 - **DISCIPLINA**: Estrutura de Dados e Algoritmos.
   - **SIGLA**: CDAXX.
@@ -68,10 +69,11 @@ A seguir são descritas o ementário das disciplinas obrigatórias do curso de C
   - **CH (hora.aula)**: 48h.
   - Visualização de dados para apoio à decisão, com foco prático em Power BI e complemento por Tableau/Looker Studio/Grafana e Python (pandas/Plotly). Abrange princípios de design e storytelling, escolha de gráficos, modelagem BI (fatos/dimensões), Power Query e DAX para KPIs, conexão a fontes (Excel/SQL/APIs), atualização, publicação no Power BI Service, governança e segurança (RLS).
   
-- **DISCIPLINA**: Gestão Ágil de Projetos.
-  - **SIGLA**: EPOP10.
+- **DISCIPLINA**: Técnicas de Amostragem.
+  - **SIGLA**: CDAXX.
   - **CH (hora.aula)**: 32h.
-  - Princípios do Agile e do Manifesto, comparação de frameworks (Scrum, Kanban, Lean, XP) e escolha por contexto. Foca em papéis (PO, Scrum Master, equipe), colaboração com stakeholders, visão e objetivos, backlog priorizado por valor/risco, histórias de usuário, estimativas (Planning Poker) e planejamento de sprints com metas e DoR/DoD. Cerimônias (daily, planning, review, retro), métricas de fluxo e valor (lead/cycle time, velocidade, burn-down/up, Cumulative Flow) e gestão visual com Kanban e políticas de WIP. Validação com usuários, gestão de dependências, riscos e qualidade, governança ágil com OKRs e roadmaps, contratos flexíveis e integração com produto/engenharia.
+  - Fundamentos e Amostragem Aleatória Simples (AAS); Uso de Variáveis Auxiliares e Estratificação; Amostragem por Conglomerados e em Múltiplos Estágios; Amostragem Sistemática; Amostra por conveniência; Erro de medida; Conceito de experimentos e quasi-experimentos (grid, hipercubo latino, sobol, outras).
+
   
   
 **Terceiro Semestre**
@@ -143,10 +145,10 @@ A seguir são descritas o ementário das disciplinas obrigatórias do curso de C
   - **CH (hora.aula)**: 48h.
   - Modelos avançados de bancos de dados. Consultas SQL avançadas. Views. Índices. Triggers. Procedures e funções armazenadas. Controle de transações. ACID. Concorrência e bloqueios. Recuperação e logs. Otimização de consultas. Arquitetura interna de SGBDs. Particionamento e replicação. Banco de dados NoSQL. Modelos chave-valor, documento, grafo e coluna. Processamento distribuído de dados. Integração com aplicações. Segurança em bancos de dados.
   
-- **DISCIPLINA**: Industria 4.0: Conceitos e Fundamentos.
-  - **SIGLA**: EPOP11.
-  - **CH (hora.aula)**: .
-  - As revoluções industriais e a Indústria 4.0; Sistemas ciber físicos; Internet das coisas e de serviços; Automação e machine-to-machine; Inteligência artificial e Big Data; Nuvem e Integração de sistemas; RFID; Realidade aumentada e virtual; Manufatura aditiva; Organização e Trabalho 4.0.
+- **DISCIPLINA**: Gestão Ágil de Projetos.
+  - **SIGLA**: EPOP10.
+  - **CH (hora.aula)**: 32h.
+  - Princípios do Agile e do Manifesto, comparação de frameworks (Scrum, Kanban, Lean, XP) e escolha por contexto. Foca em papéis (PO, Scrum Master, equipe), colaboração com stakeholders, visão e objetivos, backlog priorizado por valor/risco, histórias de usuário, estimativas (Planning Poker) e planejamento de sprints com metas e DoR/DoD. Cerimônias (daily, planning, review, retro), métricas de fluxo e valor (lead/cycle time, velocidade, burn-down/up, Cumulative Flow) e gestão visual com Kanban e políticas de WIP. Validação com usuários, gestão de dependências, riscos e qualidade, governança ágil com OKRs e roadmaps, contratos flexíveis e integração com produto/engenharia.
   
 **Quinto Semestre**
 
